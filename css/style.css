@@ -25,7 +25,7 @@ margin: 0 auto; /*Centraliza organizando as laterais*/
 }
 
 section{
-    background-image: url(/img/wallhaven-n6w5gx.jpg);
+    background-image: url(../img/wallhaven-n6w5gx.jpg);
     background-size: cover;
     overflow: hidden; /*Da impacto ao Float*/
 
